@@ -242,3 +242,5 @@ void allForMainMenu(int &x, int &y);
 //fixes keystroke for score window
 void keyForScoreWindow();
 
+//test commit 
+int a = 15;
